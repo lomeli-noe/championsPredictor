@@ -7,3 +7,4 @@ Match <- dbGetQuery(db,"Select * from Match")
 League <- dbGetQuery(db,"Select * from League")
 Team <- dbGetQuery(db,"Select * from Team")
 Team$id
+
